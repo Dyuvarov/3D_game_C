@@ -19,9 +19,9 @@ Player wanders the maze. Maze generates according configuration in map.cub
 2) Run "./cub3D map.cub"
 
 # Configuration
+:exclamation: lines can be in different order, except map. Map must be the last.
 In file map.cub configuration of:  
 * R - resolution of game window
 * EA/NO/SO/WE - path for walls textures (characters means EAST/NORTH/SOUTH/WEST)  
 * S - path for sprite texture
-* map: 1 - wall, 0 - empty space, 2 - sprite  
-:exclamation: lines can be in different order, except map. Map must be the last.
+* map: 1 - wall, 0 - empty space, 2 - sprite
