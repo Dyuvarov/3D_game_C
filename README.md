@@ -8,7 +8,7 @@ Here I used ray casting to draw realistic images. [Here you can read about ray c
 Player wanders the maze. Maze generates according configuration in map.cub  
 :exclamation: Tested only on MacOS
 
-###Player actions:  
+### Player actions:  
 * Move with 'W' and 'S' keys  
 * Rotate point of view with 'A' and 'D'  
 * Turn point of view 90 degrees with left/right arrows
