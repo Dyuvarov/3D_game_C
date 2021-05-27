@@ -1,5 +1,5 @@
 
-<center>![Alt text](gif.gif)</center>
+![Alt text](gif.gif)
 
 # Description
 This is graphic game inspired by the Wolfenstein 3D (first FPS game).  
